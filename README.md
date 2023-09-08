@@ -3,3 +3,4 @@
 Practices I made to learn HTML.
 
   1) My First Web Page
+  2) Head Element
