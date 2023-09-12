@@ -2,10 +2,11 @@
 
 Practices that I made to learn HTML.
 
-  1) My First Web Page
-  2) Head Element
-  3) Text Basics
-  4) List Types
+  1) Chapter 1 - My First Web Page
+  2) Chapter 2 - Head Element
+  3) Chapter 3 - Text Basics
+  4) Chapter 4 - List Types
+  5) Chapter 5 - Add Links
 
 Web Pages that I made to learn HTML.
 
